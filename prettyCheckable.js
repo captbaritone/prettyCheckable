@@ -37,7 +37,6 @@
         var fakeCheckable = clickedParent.find('a');
 
         if (input.prop('disabled') === true) {
-          console.log('sdf');
           return;
 
         }
